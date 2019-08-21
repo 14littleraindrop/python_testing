@@ -8,3 +8,4 @@ def mean(num_list):
                Please provide a list of numbers."
         print ("test")
         raise TypeError(detail.__str__() + "\n" +  msg)
+
